@@ -1,0 +1,91 @@
+{
+  "navbar": {
+    "home": "Home",
+    "forecast": "Forecast",
+    "about": "About",
+    "searchBar": "Search..."
+  },
+  "city": "",
+  "about": {
+    "title": "About Us",
+    "intro1": "is a weather forecasting platform that combines modern technology with an intuitive user interface to provide weather information.",
+    "intro2": "Our goal is to make weather information accessible, understandable, and easy to use for everyone. Whether you are planning your day, preparing for a trip, or checking the weather in another city, SuperWeather brings the information you need together in one place.",
+    "platformFeatures": "Platform Features",
+    "currentWeather": "Current Weather",
+    "currentWeatherDesc": "Get timely access to key meteorological data, including temperature, feels-like temperature, relative humidity, and wind speed.",
+    "dailyForecast": "7-Day Weather Forecast",
+    "dailyForecastDesc": "Explore upcoming weather conditions through daily minimum and maximum temperatures, and plan your activities in advance.",
+    "globalCity": "Global City Search",
+    "globalCityDesc": "Search for cities across different countries and access their weather information through a single platform.",
+    "forecastMap": "Interactive Weather Map",
+    "forecastMapDesc": "Explore weather conditions and temperature patterns visually using an interactive map.",
+    "customize": "Personalized Interface",
+    "customizeDesc1": "Enjoy a more comfortable experience with a user-friendly design, dynamic weather visuals, and Dark and Light modes.",
+    "customizeDesc2": "We provide current weather information and weekly forecasts in 20 different languages. Choose your preferred language and access weather information with ease.",
+    "ourMission": "Our Mission",
+    "ourMissionDesc": "Our mission is to simplify access to meteorological information and help users make more informed everyday decisions. We aim to bring functionality, visual clarity, and ease of use together in one seamless digital experience.",
+    "subtitle": "SuperWeather is designed not only to provide weather forecasts but also to help users plan their time more efficiently."
+  },
+  "privacyPolicy": {
+  "title": "Privacy Policy",
+  "intro1": "Welcome to SuperWeather. We value your privacy and strive to protect your personal data. This Privacy Policy explains how data may be collected, used, and protected when you use our website.",
+  "intro2": "SuperWeather is a platform that provides current weather conditions, daily weather forecasts, and weather information for various cities around the world.",
+  "intro3": "By using our website, you acknowledge that you have read this Privacy Policy.",
+  "infoCollect": "Information We Collect",
+  "infoCollectDesc": "SuperWeather is designed to provide weather information while collecting as little personal data as possible. Depending on how you use the website, the following information may be processed:",
+  "cityInfo": "City search data:",
+  "cityInfoDesc": "When you search for a city, the city name you enter may be sent to a weather data provider to retrieve the relevant forecast.",
+  "langPreferences": "Language preferences:",
+  "langPreferencesDesc": "Your selected language may be stored locally in your browser to remember your language preference.",
+  "displayPreferences": "Display preferences:",
+  "displayPreferencesDesc": "If this feature is enabled, your choice of dark or light mode may be stored in your browser.",
+  "infoGoals": "Purposes of Using Information",
+  "infoGoalsDesc": "Processed information may be used for the following purposes:",
+  "1": "To provide current weather conditions and forecasts.",
+  "2": "To retrieve weather information for searched cities.",
+  "3": "To save language and display preferences.",
+  "4": "To ensure the website's functionality, security, and performance.",
+  "5": "To identify technical issues and improve the user experience.",
+  "three-partyServices": "Weather Data and Third-Party Services",
+  "three-partyDesc-1": "SuperWeather may use third-party weather APIs and other external services to obtain weather forecasts and related information.",
+  "three-partyDesc-2": "When you search for a city or request weather information, relevant request data may be transmitted to the applicable service provider. These providers may process the data in accordance with their own privacy policies and terms of use.",
+  "three-partyDesc-3": "SuperWeather does not control the independent privacy practices of third-party providers. Users are advised to review the privacy policies of the services used on the website.",
+  "cookies": "Cookies",
+  "cookiesDesc1": "SuperWeather may use the browser's localStorage feature to save user preferences, such as the selected language or interface theme.",
+  "cookiesDesc2": "localStorage data is stored in your browser and differs from data stored on a server. You can usually delete this data through your browser settings. Deleting it may reset your saved preferences.",
+  "three-partyCookies": "Depending on the website's configuration, hosting providers or integrated third-party services may also use cookies.",
+  "gpsInfo": "Location Information",
+  "gpsInfoDesc": "SuperWeather allows users to obtain weather information by searching for cities.",
+  "dataRetention": "Data Retention",
+  "dataRetentionDesc1": "Language and theme preferences stored locally in your browser may remain saved until you delete them or the website changes this functionality.",
+  "dataRetentionDesc2": "SuperWeather does not claim to control the retention or deletion of data independently managed by third-party providers.",
+  "children'sPrivacy": "Children's Privacy",
+  "children'sPrivacyDesc": "SuperWeather is a weather information service intended for general use and does not aim to collect children's personal data."
+},
+"hourlyForecast":{
+    "title":"Hourly Forecast",
+    "now": "Now"
+  },
+  "weeklyForecast": {
+    "day": "Today",
+    "weeklyHumidity": "Weekly Humidity",
+    "weeklyWind": "Weekly Wind",
+    "moonPhase": {
+        "title": "Moon Phase",
+        "newMoon": "New Moon",
+        "waxingCrescent": "Waxing Crescent",
+        "firstQuarter": "First Quarter",
+        "waxingGibbous": "Waxing Gibbous",
+        "fullMoon": "Full Moon",
+        "waningGibbous": "Waning Gibbous",
+        "lastQuarter": "Last Quarter",
+        "waningCrescent": "Waning Crescent"
+      }
+  },
+"footer": {
+  "about": "About Us",
+  "forecast": "Forecast",
+  "privacyPolicy": "Privacy Policy",
+  "copyright": "© 2026 Superweather™. All rights reserved"
+}
+}

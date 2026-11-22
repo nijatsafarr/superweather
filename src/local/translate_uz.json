@@ -1,0 +1,91 @@
+{
+  "navbar": {
+    "home": "Bosh sahifa",
+    "forecast": "Prognoz",
+    "about": "Biz haqimizda",
+    "searchBar": "Qidirish..."
+  },
+  "city": "",
+  "about": {
+    "title": "Biz haqimizda",
+    "intro1": "ob-havo haqidagi ma’lumotlarni zamonaviy texnologiyalar va qulay foydalanuvchi interfeysi bilan birlashtirgan ob-havo prognozi platformasi.",
+    "intro2": "Bizning maqsadimiz — ob-havo haqidagi ma’lumotlarni hamma uchun ochiq qilish va foydalanuvchilarga kundalik faoliyatlarini samarali rejalashtirishda yordam berish.",
+    "platformFeatures": "Platforma imkoniyatlari",
+    "currentWeather": "Joriy ob-havo",
+    "currentWeatherDesc": "Harorat, namlik, shamol tezligi va ayni paytdagi ob-havo holati haqida ma’lumot oling.",
+    "dailyForecast": "7 kunlik ob-havo prognozi",
+    "dailyForecastDesc": "Kelgusi yetti kun uchun ob-havo prognozini ko‘rib, rejalaringizni oldindan tuzing.",
+    "globalCity": "Dunyo shaharlari bo‘yicha qidiruv",
+    "globalCityDesc": "Dunyoning turli shaharlarini qidiring va ularning ob-havo ma’lumotlarini oling.",
+    "forecastMap": "Interaktiv ob-havo xaritasi",
+    "forecastMapDesc": "Interaktiv xarita orqali turli hududlardagi ob-havo holatini kuzating.",
+    "customize": "Moslashtiriladigan interfeys",
+    "customizeDesc1": "O‘zingizga mos ravishda yorug‘ va qorong‘i mavzularni almashtiring.",
+    "customizeDesc2": "O‘zingizga qulay tilni tanlang va platformadan oson foydalaning.",
+    "ourMission": "Bizning maqsadimiz",
+    "ourMissionDesc": "Bizning maqsadimiz — ob-havo ma’lumotlarini sodda, aniq va oson topiladigan qilish, shunda har bir kishi kunini ishonch bilan rejalashtira oladi.",
+    "subtitle": "Ob-havo ma’lumotlari — istalgan vaqtda va istalgan joyda."
+  },
+  "privacyPolicy": {
+  "title": "Maxfiylik siyosati",
+  "intro1": "SuperWeather xizmatiga xush kelibsiz. Biz maxfiyligingizni qadrlaymiz va shaxsiy ma’lumotlaringizni himoya qilishga intilamiz. Ushbu Maxfiylik siyosati veb-saytimizdan foydalanganingizda ma’lumotlar qanday to‘planishi, ishlatilishi va himoya qilinishi mumkinligini tushuntiradi.",
+  "intro2": "SuperWeather — joriy ob-havo sharoitlari, kunlik ob-havo prognozlari va dunyoning turli shaharlariga oid ob-havo ma’lumotlarini taqdim etuvchi platforma.",
+  "intro3": "Veb-saytimizdan foydalanish orqali ushbu Maxfiylik siyosati bilan tanishganingizni tasdiqlaysiz.",
+  "infoCollect": "Biz to‘playdigan ma’lumotlar",
+  "infoCollectDesc": "SuperWeather imkon qadar kam shaxsiy ma’lumot to‘plagan holda ob-havo ma’lumotlarini taqdim etish uchun ishlab chiqilgan. Veb-saytdan foydalanish usulingizga qarab quyidagi ma’lumotlar qayta ishlanishi mumkin:",
+  "cityInfo": "Shahar qidiruvi ma’lumotlari:",
+  "cityInfoDesc": "Shaharni qidirganingizda, tegishli ob-havo prognozini olish uchun siz kiritgan shahar nomi ob-havo ma’lumotlari provayderiga yuborilishi mumkin.",
+  "langPreferences": "Til sozlamalari:",
+  "langPreferencesDesc": "Tanlagan tilingiz afzalligingizni eslab qolish uchun brauzeringizda mahalliy ravishda saqlanishi mumkin.",
+  "displayPreferences": "Ko‘rinish sozlamalari:",
+  "displayPreferencesDesc": "Agar bu funksiya yoqilgan bo‘lsa, qorong‘i yoki yorug‘ rejimni tanlaganingiz brauzeringizda saqlanishi mumkin.",
+  "infoGoals": "Ma’lumotlardan foydalanish maqsadlari",
+  "infoGoalsDesc": "Qayta ishlangan ma’lumotlardan quyidagi maqsadlarda foydalanish mumkin:",
+  "1": "Joriy ob-havo sharoitlari va prognozlarini taqdim etish.",
+  "2": "Qidirilgan shaharlar uchun ob-havo ma’lumotlarini olish.",
+  "3": "Til va ko‘rinish sozlamalarini saqlash.",
+  "4": "Veb-saytning ishlashi, xavfsizligi va funksionalligini ta’minlash.",
+  "5": "Texnik muammolarni aniqlash va foydalanuvchi tajribasini yaxshilash.",
+  "three-partyServices": "Ob-havo ma’lumotlari va uchinchi tomon xizmatlari",
+  "three-partyDesc-1": "SuperWeather ob-havo prognozlari va tegishli ma’lumotlarni olish uchun uchinchi tomon ob-havo API’lari va boshqa tashqi xizmatlardan foydalanishi mumkin.",
+  "three-partyDesc-2": "Shaharni qidirganingizda yoki ob-havo ma’lumotlarini so‘raganingizda, tegishli so‘rov ma’lumotlari xizmat ko‘rsatuvchi provayderga uzatilishi mumkin. Ushbu provayderlar ma’lumotlarni o‘z maxfiylik siyosatlari va foydalanish shartlariga muvofiq qayta ishlashlari mumkin.",
+  "three-partyDesc-3": "SuperWeather uchinchi tomon provayderlarining mustaqil maxfiylik amaliyotlarini nazorat qilmaydi. Foydalanuvchilarga veb-saytda foydalaniladigan xizmatlarning maxfiylik siyosatlari bilan tanishish tavsiya etiladi.",
+  "cookies": "Cookie fayllari",
+  "cookiesDesc1": "SuperWeather tanlangan til yoki interfeys mavzusi kabi foydalanuvchi sozlamalarini saqlash uchun brauzerning localStorage funksiyasidan foydalanishi mumkin.",
+  "cookiesDesc2": "localStorage ma’lumotlari brauzeringizda saqlanadi va serverda saqlanadigan ma’lumotlardan farq qiladi. Odatda, bu ma’lumotlarni brauzer sozlamalari orqali o‘chirishingiz mumkin. Ularni o‘chirish saqlangan sozlamalarning tiklanishiga olib kelishi mumkin.",
+  "three-partyCookies": "Veb-sayt konfiguratsiyasiga qarab, hosting provayderlari yoki integratsiyalangan uchinchi tomon xizmatlari ham cookie fayllaridan foydalanishi mumkin.",
+  "gpsInfo": "Joylashuv ma’lumotlari",
+  "gpsInfoDesc": "SuperWeather foydalanuvchilarga shaharlarni qidirish orqali ob-havo ma’lumotlarini olish imkonini beradi.",
+  "dataRetention": "Ma’lumotlarni saqlash muddati",
+  "dataRetentionDesc1": "Brauzerda mahalliy saqlangan til va mavzu sozlamalari siz ularni o‘chirguningizcha yoki veb-sayt ushbu funksiyani o‘zgartirgunicha saqlanishi mumkin.",
+  "dataRetentionDesc2": "SuperWeather uchinchi tomon provayderlari mustaqil ravishda boshqaradigan ma’lumotlarni saqlash yoki o‘chirish jarayonlarini nazorat qilishini da’vo qilmaydi.",
+  "children'sPrivacy": "Bolalar maxfiyligi",
+  "children'sPrivacyDesc": "SuperWeather umumiy foydalanish uchun mo‘ljallangan ob-havo ma’lumotlari xizmati bo‘lib, bolalarning shaxsiy ma’lumotlarini to‘plashni maqsad qilmaydi."
+},
+"hourlyForecast": {
+  "title": "Soatlik prognoz",
+  "now": "Hozir"
+},
+"weeklyForecast": {
+  "day": "Bugun",
+  "weeklyHumidity": "Haftalik Namlik",
+  "weeklyWind": "Haftalik Shamol",
+  "moonPhase": {
+      "title": "Oy fazasi",
+      "newMoon": "Yangi oy",
+      "waxingCrescent": "O‘sayotgan hilol",
+      "firstQuarter": "Birinchi chorak",
+      "waxingGibbous": "O‘sayotgan qavariq oy",
+      "fullMoon": "To‘lin oy",
+      "waningGibbous": "Kamayayotgan qavariq oy",
+      "lastQuarter": "Oxirgi chorak",
+      "waningCrescent": "Kamayayotgan hilol"
+    }
+},
+"footer": {
+  "about": "Biz haqimizda",
+  "forecast": "Prognoz",
+  "privacyPolicy": "Maxfiylik siyosati",
+  "copyright": "© 2026 Superweather™. Barcha huquqlar himoyalangan"
+}
+}

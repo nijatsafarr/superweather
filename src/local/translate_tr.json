@@ -1,0 +1,91 @@
+{
+  "navbar":{
+    "home": "Ana Sayfa",
+    "forecast": "Prognoz",
+    "about": "Hakkımızda",
+    "searchBar": "Ara"
+  },
+  "city": "",
+  "about":{
+    "title": "Hakkımızda",
+    "intro1": "hava durumu bilgilerini sunmak için modern teknolojileri sezgisel ve kullanıcı dostu bir arayüzle bir araya getiren bir hava tahmini platformudur.",
+    "intro2": "Amacımız, hava durumu bilgilerini herkes için erişilebilir, anlaşılır ve kullanımı kolay hâle getirmektir. İster gününüzü planlayın, ister seyahate hazırlanın, ister başka bir şehrin hava durumunu öğrenmek isteyin; SuperWeather ihtiyacınız olan bilgileri tek bir yerde sunar.",
+    "platformFeatures": "Platformun İmkanları",
+    "currentWeather": "Güncel hava durumu",
+    "currentWeatherDesc": "Sıcaklık, hissedilen sıcaklık, bağıl nem ve rüzgâr hızı gibi temel meteorolojik verilere güncel olarak ulaşın.",
+    "dailyForecast": "7 Günlük Hava Tahmini",
+    "dailyForecastDesc": "Günlük en düşük ve en yüksek sıcaklık değerleri sayesinde önümüzdeki günlerin hava koşullarını öğrenin ve planlarınızı önceden yapın.",
+    "globalCity": "Global Şehir Arama",
+    "globalCityDesc": "Farklı ülkelerdeki şehirleri arayın ve hava durumu bilgilerine tek bir platform üzerinden erişin.",
+    "forecastMap": "Hava Durumu Haritası",
+    "forecastMapDesc": "Etkileşimli harita üzerinden hava koşullarını ve sıcaklık dağılımını görsel olarak inceleyin.",
+    "customize": "Kişiselleştirme",
+    "customizeDesc1": "Kullanıcı dostu tasarım, dinamik hava durumu görselleri ve koyu ile açık tema seçenekleri sayesinde daha rahat bir deneyim yaşayın.",
+    "customizeDesc2": "14 farklı dilde günlük ve haftalık hava durumu tahmin bilgileri sunuyoruz. Size uygun dili seçerek bilgilere kolayca ulaşabilirsiniz.",
+    "ourMission": "Misyonumuz",
+    "ourMissionDesc": "Misyonumuz, meteorolojik bilgilere erişimi kolaylaştırmak ve kullanıcıların günlük yaşamlarında daha bilinçli kararlar almalarına yardımcı olmaktır. İşlevselliği, görsel netliği ve kullanım kolaylığını tek bir bütünleşik dijital deneyimde bir araya getirmeyi hedefliyoruz.",
+    "subtitle": "SuperWeather yalnızca hava tahminleri sunmayı değil, aynı zamanda kullanıcıların zamanlarını daha verimli planlamalarına yardımcı olmayı da amaçlar."
+  },
+"privacyPolicy": {
+  "title": "Gizlilik Politikası",
+  "intro1": "SuperWeather'a hoş geldiniz. Gizliliğinize önem veriyor ve kişisel verilerinizi korumaya çalışıyoruz. Bu Gizlilik Politikası, web sitemizi kullandığınızda verilerin nasıl toplanabileceğini, kullanılabileceğini ve korunabileceğini açıklar.",
+  "intro2": "SuperWeather, güncel hava koşullarını, günlük hava tahminlerini ve dünyanın farklı şehirlerine ait hava durumu bilgilerini sunan bir platformdur.",
+  "intro3": "Web sitemizi kullanarak bu Gizlilik Politikası'nı okuduğunuzu kabul etmiş olursunuz.",
+  "infoCollect": "Topladığımız bilgiler",
+  "infoCollectDesc": "SuperWeather, mümkün olduğunca az kişisel veri toplayarak hava durumu bilgileri sunmak üzere tasarlanmıştır. Web sitesini kullanma şeklinize bağlı olarak aşağıdaki bilgiler işlenebilir:",
+  "cityInfo": "Şehir arama verileri:",
+  "cityInfoDesc": "Bir şehir aradığınızda, girdiğiniz şehir adı ilgili hava tahminini almak amacıyla bir hava durumu verisi sağlayıcısına gönderilebilir.",
+  "langPreferences": "Dil tercihleri:",
+  "langPreferencesDesc": "Seçtiğiniz dil, tercihinizi hatırlamak amacıyla tarayıcınızda yerel olarak saklanabilir.",
+  "displayPreferences": "Görünüm tercihleri:",
+  "displayPreferencesDesc": "Bu özellik etkinse, karanlık veya aydınlık mod seçiminiz tarayıcınızda saklanabilir.",
+  "infoGoals": "Bilgilerin kullanım amaçları",
+  "infoGoalsDesc": "İşlenen bilgiler aşağıdaki amaçlarla kullanılabilir:",
+  "1": "Güncel hava koşullarını ve hava tahminlerini sunmak.",
+  "2": "Aranan şehirler için hava durumu bilgilerini almak.",
+  "3": "Dil ve görünüm tercihlerini kaydetmek.",
+  "4": "Web sitesinin işlevselliğini, güvenliğini ve performansını sağlamak.",
+  "5": "Teknik sorunları belirlemek ve kullanıcı deneyimini iyileştirmek.",
+  "three-partyServices": "Hava durumu verileri ve üçüncü taraf hizmetleri",
+  "three-partyDesc-1": "SuperWeather, hava tahminlerini ve ilgili bilgileri almak için üçüncü taraf hava durumu API'lerini ve diğer harici hizmetleri kullanabilir.",
+  "three-partyDesc-2": "Bir şehir aradığınızda veya hava durumu bilgisi talep ettiğinizde, ilgili istek verileri hizmet sağlayıcısına aktarılabilir. Bu sağlayıcılar verileri kendi gizlilik politikalarına ve kullanım koşullarına göre işleyebilir.",
+  "three-partyDesc-3": "SuperWeather, üçüncü taraf sağlayıcıların bağımsız gizlilik uygulamalarını kontrol etmez. Kullanıcıların web sitesinde kullanılan hizmetlerin gizlilik politikalarını incelemeleri önerilir.",
+  "cookies": "Çerezler",
+  "cookiesDesc1": "SuperWeather, seçilen dil veya arayüz teması gibi kullanıcı tercihlerini kaydetmek için tarayıcının localStorage özelliğini kullanabilir.",
+  "cookiesDesc2": "localStorage verileri tarayıcınızda saklanır ve sunucuda saklanan verilerden farklıdır. Bu verileri genellikle tarayıcı ayarlarından silebilirsiniz. Verilerin silinmesi, kaydedilmiş tercihlerin sıfırlanmasına neden olabilir.",
+  "three-partyCookies": "Web sitesinin yapılandırmasına bağlı olarak barındırma sağlayıcıları veya entegre üçüncü taraf hizmetleri de çerez kullanabilir.",
+  "gpsInfo": "Konum bilgileri",
+  "gpsInfoDesc": "SuperWeather, kullanıcıların şehir arayarak hava durumu bilgilerine ulaşmasını sağlar.",
+  "dataRetention": "Verilerin saklanma süresi",
+  "dataRetentionDesc1": "Tarayıcıda yerel olarak saklanan dil ve tema tercihleri, siz bunları silene veya web sitesi bu işlevi değiştirene kadar saklanabilir.",
+  "dataRetentionDesc2": "SuperWeather, üçüncü taraf sağlayıcıların bağımsız olarak yönettiği verilerin saklanmasını veya silinmesini kontrol ettiğini iddia etmez.",
+  "children'sPrivacy": "Çocukların gizliliği",
+  "children'sPrivacyDesc": "SuperWeather, genel kullanıma yönelik bir hava durumu bilgi hizmetidir ve çocukların kişisel verilerini toplamayı amaçlamaz."
+},
+"hourlyForecast":{
+  "title":"Saatlik Prognoz",
+  "now": "Şimdi"
+},
+"weeklyForecast": {
+  "day": "Bugün",
+  "weeklyHumidity": "Haftalık Nem",
+  "weeklyWind": "Haftalık Rüzgâr",
+  "moonPhase": {
+      "title": "Ay evresi",
+      "newMoon": "Yeni Ay",
+      "waxingCrescent": "Hilal",
+      "firstQuarter": "İlk Dördün",
+      "waxingGibbous": "Şişkin Ay",
+      "fullMoon": "Dolunay",
+      "waningGibbous": "Küçülen Şişkin Ay",
+      "lastQuarter": "Son Dördün",
+      "waningCrescent": "Küçülen Hilal"
+    }
+},
+"footer": {
+  "about": "Hakkımızda",
+  "forecast": "Prognoz",
+  "privacyPolicy": "Gizlilik Politikası",
+  "copyright": "© 2026 Superweather™. Tüm hakları saklıdır"
+}
+}

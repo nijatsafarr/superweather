@@ -1,0 +1,91 @@
+{
+  "navbar": {
+    "home": "Home",
+    "forecast": "Previsioni",
+    "about": "Chi siamo",
+    "searchBar": "Cerca..."
+  },
+  "city": "",
+  "about": {
+    "title": "Chi siamo",
+    "intro1": "è una piattaforma di previsioni meteorologiche che combina tecnologie moderne e un'interfaccia intuitiva per fornire informazioni sulle condizioni atmosferiche.",
+    "intro2": "Il nostro obiettivo è rendere le informazioni meteorologiche accessibili, comprensibili e facili da utilizzare per tutti. Che tu stia pianificando la giornata, preparando un viaggio o controllando il meteo di un'altra città, SuperWeather riunisce in un unico luogo tutte le informazioni di cui hai bisogno.",
+    "platformFeatures": "Funzionalità della piattaforma",
+    "currentWeather": "Condizioni meteorologiche attuali",
+    "currentWeatherDesc": "Consulta i principali indicatori meteorologici, tra cui temperatura, temperatura percepita, umidità relativa e velocità del vento.",
+    "dailyForecast": "Previsioni meteo a 7 giorni",
+    "dailyForecastDesc": "Scopri le condizioni meteorologiche dei prossimi giorni attraverso le temperature massime e minime giornaliere e pianifica in anticipo le tue attività.",
+    "globalCity": "Ricerca di città in tutto il mondo",
+    "globalCityDesc": "Cerca città in diversi Paesi e consulta le relative informazioni meteorologiche attraverso un'unica piattaforma.",
+    "forecastMap": "Mappa meteorologica interattiva",
+    "forecastMapDesc": "Esplora visivamente le condizioni meteorologiche e la distribuzione delle temperature attraverso una mappa interattiva.",
+    "customize": "Interfaccia personalizzata",
+    "customizeDesc1": "Goditi un'esperienza più confortevole grazie a un design intuitivo, visualizzazioni meteorologiche dinamiche e modalità scura e chiara.",
+    "customizeDesc2": "Offriamo informazioni meteorologiche attuali e previsioni settimanali in 20 lingue diverse. Scegli la lingua che preferisci e consulta facilmente le informazioni.",
+    "ourMission": "La nostra missione",
+    "ourMissionDesc": "La nostra missione è semplificare l'accesso alle informazioni meteorologiche e aiutare gli utenti a prendere decisioni quotidiane più consapevoli. Puntiamo a unire funzionalità, chiarezza visiva e facilità d'uso in un'esperienza digitale coerente.",
+    "subtitle": "SuperWeather non si limita a fornire previsioni meteorologiche, ma mira anche ad aiutare gli utenti a organizzare il proprio tempo in modo più efficiente."
+  },
+  "privacyPolicy": {
+  "title": "Informativa sulla privacy",
+  "intro1": "Benvenuto su SuperWeather. Rispettiamo la tua privacy e ci impegniamo a proteggere i tuoi dati personali. Questa Informativa sulla privacy spiega come i dati possono essere raccolti, utilizzati e protetti quando utilizzi il nostro sito web.",
+  "intro2": "SuperWeather è una piattaforma che fornisce le condizioni meteorologiche attuali, previsioni giornaliere e informazioni meteo per diverse città del mondo.",
+  "intro3": "Utilizzando il nostro sito web, confermi di aver preso visione di questa Informativa sulla privacy.",
+  "infoCollect": "Informazioni che raccogliamo",
+  "infoCollectDesc": "SuperWeather è progettato per fornire informazioni meteorologiche raccogliendo il minor numero possibile di dati personali. A seconda di come utilizzi il sito web, possono essere trattate le seguenti informazioni:",
+  "cityInfo": "Dati di ricerca delle città:",
+  "cityInfoDesc": "Quando cerchi una città, il nome inserito può essere inviato a un fornitore di dati meteorologici per ottenere le previsioni pertinenti.",
+  "langPreferences": "Preferenze linguistiche:",
+  "langPreferencesDesc": "La lingua selezionata può essere salvata localmente nel browser per ricordare la tua preferenza.",
+  "displayPreferences": "Preferenze di visualizzazione:",
+  "displayPreferencesDesc": "Se questa funzione è attiva, la scelta della modalità scura o chiara può essere salvata nel browser.",
+  "infoGoals": "Finalità dell'utilizzo delle informazioni",
+  "infoGoalsDesc": "Le informazioni trattate possono essere utilizzate per le seguenti finalità:",
+  "1": "Fornire le condizioni meteorologiche attuali e le previsioni.",
+  "2": "Recuperare informazioni meteorologiche per le città cercate.",
+  "3": "Salvare le preferenze linguistiche e di visualizzazione.",
+  "4": "Garantire la funzionalità, la sicurezza e le prestazioni del sito web.",
+  "5": "Individuare problemi tecnici e migliorare l'esperienza dell'utente.",
+  "three-partyServices": "Dati meteorologici e servizi di terze parti",
+  "three-partyDesc-1": "SuperWeather può utilizzare API meteorologiche di terze parti e altri servizi esterni per ottenere previsioni e informazioni correlate.",
+  "three-partyDesc-2": "Quando cerchi una città o richiedi informazioni meteorologiche, i dati pertinenti della richiesta possono essere trasmessi al fornitore di servizi interessato. Questi fornitori possono trattare i dati in conformità con le proprie informative sulla privacy e condizioni d'uso.",
+  "three-partyDesc-3": "SuperWeather non controlla le pratiche di privacy indipendenti dei fornitori terzi. Si consiglia agli utenti di consultare le informative sulla privacy dei servizi utilizzati sul sito web.",
+  "cookies": "Cookie",
+  "cookiesDesc1": "SuperWeather può utilizzare la funzionalità localStorage del browser per salvare le preferenze dell'utente, come la lingua selezionata o il tema dell'interfaccia.",
+  "cookiesDesc2": "I dati localStorage vengono memorizzati nel browser e sono diversi dai dati salvati su un server. Di norma, puoi eliminarli tramite le impostazioni del browser. L'eliminazione può ripristinare le preferenze salvate.",
+  "three-partyCookies": "A seconda della configurazione del sito web, anche i provider di hosting o i servizi di terze parti integrati possono utilizzare cookie.",
+  "gpsInfo": "Informazioni sulla posizione",
+  "gpsInfoDesc": "SuperWeather consente agli utenti di ottenere informazioni meteorologiche tramite la ricerca delle città.",
+  "dataRetention": "Periodo di conservazione dei dati",
+  "dataRetentionDesc1": "Le preferenze linguistiche e del tema salvate localmente nel browser possono rimanere memorizzate finché non le elimini o il sito web modifica questa funzionalità.",
+  "dataRetentionDesc2": "SuperWeather non dichiara di controllare la conservazione o l'eliminazione dei dati gestiti autonomamente da fornitori terzi.",
+  "children'sPrivacy": "Privacy dei minori",
+  "children'sPrivacyDesc": "SuperWeather è un servizio di informazioni meteorologiche destinato al pubblico generale e non ha lo scopo di raccogliere dati personali dei minori."
+},
+"hourlyForecast": {
+  "title": "Previsioni orarie",
+  "now": "Adesso"
+},
+"weeklyForecast": {
+  "day": "Oggi",
+  "weeklyHumidity": "Umidità Settimanale",
+  "weeklyWind": "Vento Settimanale",
+  "moonPhase": {
+      "title": "Fase lunare",
+      "newMoon": "Luna nuova",
+      "waxingCrescent": "Luna crescente",
+      "firstQuarter": "Primo quarto",
+      "waxingGibbous": "Gibbosa crescente",
+      "fullMoon": "Luna piena",
+      "waningGibbous": "Gibbosa calante",
+      "lastQuarter": "Ultimo quarto",
+      "waningCrescent": "Luna calante"
+    }
+},
+"footer": {
+  "about": "Chi siamo",
+  "forecast": "Previsioni",
+  "privacyPolicy": "Informativa sulla privacy",
+  "copyright": "© 2026 Superweather™. Tutti i diritti riservati"
+}
+}

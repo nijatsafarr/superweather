@@ -1,0 +1,91 @@
+{
+  "navbar": {
+    "home": "Strona główna",
+    "forecast": "Prognoza",
+    "about": "O nas",
+    "searchBar": "Szukaj..."
+  },
+  "city": "",
+  "about": {
+    "title": "O nas",
+    "intro1": "to platforma pogodowa, która łączy informacje o warunkach atmosferycznych z nowoczesnymi technologiami i intuicyjnym interfejsem użytkownika.",
+    "intro2": "Naszym celem jest zapewnienie wszystkim łatwego dostępu do informacji o pogodzie oraz pomaganie użytkownikom w skuteczniejszym planowaniu codziennych aktywności.",
+    "platformFeatures": "Funkcje platformy",
+    "currentWeather": "Aktualna pogoda",
+    "currentWeatherDesc": "Sprawdzaj temperaturę, wilgotność, prędkość wiatru oraz aktualne warunki pogodowe.",
+    "dailyForecast": "7-dniowa prognoza pogody",
+    "dailyForecastDesc": "Sprawdzaj prognozę na najbliższe siedem dni i planuj z wyprzedzeniem.",
+    "globalCity": "Wyszukiwanie miast na świecie",
+    "globalCityDesc": "Wyszukuj miasta na całym świecie i sprawdzaj informacje o panujących w nich warunkach pogodowych.",
+    "forecastMap": "Interaktywna mapa pogody",
+    "forecastMapDesc": "Sprawdzaj warunki pogodowe w różnych regionach za pomocą interaktywnej mapy.",
+    "customize": "Spersonalizowany interfejs",
+    "customizeDesc1": "Przełączaj się między jasnym i ciemnym motywem zgodnie ze swoimi preferencjami.",
+    "customizeDesc2": "Wybierz preferowany język i korzystaj z platformy w wygodny dla siebie sposób.",
+    "ourMission": "Nasza misja",
+    "ourMissionDesc": "Naszą misją jest zapewnienie prostego, dokładnego i łatwego dostępu do informacji o pogodzie, aby każdy mógł pewnie planować swój dzień.",
+    "subtitle": "Informacje o pogodzie — zawsze i wszędzie."
+  },
+  "privacyPolicy": {
+  "title": "Polityka prywatności",
+  "intro1": "Witamy w SuperWeather. Cenimy Twoją prywatność i staramy się chronić Twoje dane osobowe. Niniejsza Polityka prywatności wyjaśnia, w jaki sposób dane mogą być gromadzone, wykorzystywane i chronione podczas korzystania z naszej strony internetowej.",
+  "intro2": "SuperWeather to platforma udostępniająca aktualne warunki pogodowe, codzienne prognozy oraz informacje o pogodzie w różnych miastach na całym świecie.",
+  "intro3": "Korzystając z naszej strony internetowej, potwierdzasz, że zapoznałeś się z niniejszą Polityką prywatności.",
+  "infoCollect": "Gromadzone przez nas informacje",
+  "infoCollectDesc": "SuperWeather został zaprojektowany tak, aby dostarczać informacje o pogodzie przy gromadzeniu jak najmniejszej ilości danych osobowych. W zależności od sposobu korzystania ze strony mogą być przetwarzane następujące informacje:",
+  "cityInfo": "Dane wyszukiwania miast:",
+  "cityInfoDesc": "Podczas wyszukiwania miasta wprowadzona nazwa może zostać przesłana do dostawcy danych pogodowych w celu uzyskania odpowiedniej prognozy.",
+  "langPreferences": "Preferencje językowe:",
+  "langPreferencesDesc": "Wybrany język może być przechowywany lokalnie w przeglądarce, aby zapamiętać Twoje preferencje.",
+  "displayPreferences": "Preferencje wyświetlania:",
+  "displayPreferencesDesc": "Jeśli ta funkcja jest włączona, wybór trybu ciemnego lub jasnego może zostać zapisany w przeglądarce.",
+  "infoGoals": "Cele wykorzystania informacji",
+  "infoGoalsDesc": "Przetwarzane informacje mogą być wykorzystywane w następujących celach:",
+  "1": "Udostępnianie aktualnych warunków pogodowych i prognoz.",
+  "2": "Pobieranie informacji o pogodzie dla wyszukiwanych miast.",
+  "3": "Zapisywanie preferencji językowych i ustawień wyświetlania.",
+  "4": "Zapewnienie funkcjonalności, bezpieczeństwa i wydajności strony internetowej.",
+  "5": "Wykrywanie problemów technicznych i poprawa komfortu użytkownika.",
+  "three-partyServices": "Dane pogodowe i usługi stron trzecich",
+  "three-partyDesc-1": "SuperWeather może korzystać z zewnętrznych interfejsów API dotyczących pogody oraz innych usług w celu uzyskiwania prognoz i powiązanych informacji.",
+  "three-partyDesc-2": "Podczas wyszukiwania miasta lub żądania informacji o pogodzie odpowiednie dane zapytania mogą zostać przekazane właściwemu dostawcy usług. Dostawcy ci mogą przetwarzać dane zgodnie z własnymi politykami prywatności i warunkami korzystania z usług.",
+  "three-partyDesc-3": "SuperWeather nie kontroluje niezależnych praktyk dotyczących prywatności stosowanych przez zewnętrznych dostawców. Zaleca się użytkownikom zapoznanie się z politykami prywatności usług wykorzystywanych na stronie.",
+  "cookies": "Pliki cookie",
+  "cookiesDesc1": "SuperWeather może korzystać z funkcji localStorage przeglądarki w celu zapisywania preferencji użytkownika, takich jak wybrany język lub motyw interfejsu.",
+  "cookiesDesc2": "Dane localStorage są przechowywane w przeglądarce i różnią się od danych przechowywanych na serwerze. Zazwyczaj można je usunąć w ustawieniach przeglądarki. Usunięcie tych danych może spowodować zresetowanie zapisanych preferencji.",
+  "three-partyCookies": "W zależności od konfiguracji strony internetowej dostawcy hostingu lub zintegrowane usługi stron trzecich mogą również używać plików cookie.",
+  "gpsInfo": "Informacje o lokalizacji",
+  "gpsInfoDesc": "SuperWeather umożliwia użytkownikom uzyskiwanie informacji o pogodzie poprzez wyszukiwanie miast.",
+  "dataRetention": "Okres przechowywania danych",
+  "dataRetentionDesc1": "Preferencje językowe i motyw zapisane lokalnie w przeglądarce mogą być przechowywane do momentu ich usunięcia lub zmiany tej funkcji przez stronę internetową.",
+  "dataRetentionDesc2": "SuperWeather nie twierdzi, że kontroluje przechowywanie ani usuwanie danych zarządzanych niezależnie przez zewnętrznych dostawców.",
+  "children'sPrivacy": "Prywatność dzieci",
+  "children'sPrivacyDesc": "SuperWeather to usługa informacji pogodowych przeznaczona do ogólnego użytku, której celem nie jest gromadzenie danych osobowych dzieci."
+},
+"hourlyForecast": {
+  "title": "Prognoza godzinowa",
+  "now": "Teraz"
+},
+"weeklyForecast": {
+  "day": "Dzisiaj",
+  "weeklyHumidity": "Wilgotność tygodniowa",
+  "weeklyWind": "Tygodniowy wiatr",
+  "moonPhase": {
+      "title": "Faza Księżyca",
+      "newMoon": "Nów Księżyca",
+      "waxingCrescent": "Sierp przybywający",
+      "firstQuarter": "Pierwsza kwadra",
+      "waxingGibbous": "Księżyc garbaty przybywający",
+      "fullMoon": "Pełnia",
+      "waningGibbous": "Księżyc garbaty ubywający",
+      "lastQuarter": "Ostatnia kwadra",
+      "waningCrescent": "Sierp ubywający"
+    }
+},
+"footer": {
+  "about": "O nas",
+  "forecast": "Prognoza",
+  "privacyPolicy": "Polityka prywatności",
+  "copyright": "© 2026 Superweather™. Wszelkie prawa zastrzeżone"
+}
+}
